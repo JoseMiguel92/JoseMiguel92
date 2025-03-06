@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi👋, I'm Jose Miguel, a Software Engineer based in Madrid, Spain 🚀
 
-I'm Jose Miguel and I'm a Software Engineer in Madrid, Spain.
-I love the tech world, running and photography. In my personal time I try to learn new things all the time and create personal projects that are challenging in terms of programming and design.
-More info in: [https://josemiguel92.github.io](https://josemiguel92.github.io/)
+I'm passionate about technology 👨🏻‍💻, running 🏃🏻‍♂️, and biking 🚴‍♂️. In my free time, I love learning new things and working on personal projects that challenge my programming skills using languages like Java, Python, and TypeScript.
 
-🌱 I’m currently learning VueJS with TypeScript.
+I specialize in enterprise applications using Spring Boot, with capabilities for message exchange via message queues (Kafka), REST, and SOAP services. I stay focused 🎯 on system performance, best practices, and testing.
+
+Feel free to check out my personal page! 👉 [https://josemiguel92.github.io](https://josemiguel92.github.io/)
